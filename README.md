@@ -54,10 +54,10 @@ To begin, you'll need to connect to the provided server using SSH. Follow these 
 
 2. **Connect via SSH**:
 
-   Use the following command to connect to the server. Replace `shiyadav` with your actual username.
+   Use the following command to connect to the server. Replace `username` with your actual username.
 
    ```bash
-   ssh shiyadav@courserv01.luddy.iupui.edu
+   ssh username@serverURL
    ```
 
 3. **Enter Password**:
@@ -69,7 +69,7 @@ To begin, you'll need to connect to the provided server using SSH. Follow these 
    Upon successful authentication, you will be logged into the server and presented with a shell prompt similar to:
 
    ```bash
-   shiyadav@courserv01:~$
+   username@server:~$
    ```
 
 ---
